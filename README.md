@@ -48,7 +48,7 @@
       <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Christianmsousa&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
     <a href="">
-      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api?username=Christianmsousa&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight">
+      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christianmsousa&layout=compact&theme=tokyonight">
     </a>  
 </div
 <br/>
