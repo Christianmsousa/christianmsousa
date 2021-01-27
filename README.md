@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiansousaa/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.msousaa@gmail.com?subject=Subject&amp;body=Message)
 
-<img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
+<img align="right" src="https://64.media.tumblr.com/04eb7d5b48cd621875cb36037bb3c55d/tumblr_mjjgwvUtKU1qbn6jwo1_500.gifv" width="350px;"/>
 
 ----
 
