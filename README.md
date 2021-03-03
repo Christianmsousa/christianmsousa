@@ -24,7 +24,7 @@
   
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=FFFF" />
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
