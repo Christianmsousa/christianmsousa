@@ -12,6 +12,7 @@
 - 🎯 Meu objetivo é ser um desenvolvedor web full stack
 - ❤️ Livros, jogos, musicas e séries
 - 🎸 Contrabaixo, guitarra e violão
+- 💻 Consulting Inter - Sensedia
 
 ----
 ### Ferramentas e Tecnologias
