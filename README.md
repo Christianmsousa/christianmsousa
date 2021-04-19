@@ -31,11 +31,14 @@
   
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://insomnia.rest/download/"/>
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/MySQL-0078D6?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Python-2E2EFE?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
-
-  <img src="https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/" />
   
 </p>
 
